@@ -1,16 +1,14 @@
-## Hi there 👋
+[![X Badge](https://img.shields.io/badge/X-222?logo=x&logoColor=fff&style=flat-rounded)](https://x.com/hello_tdmns)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-27A5E4?logo=telegram&logoColor=fff&style=flat-rounded)](https://t.me/tdmns)
+[![LeetCode](https://badges.peiyuan.ch/leetcode/tdmns/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=blue)](https://leetcode.com/u/TDMNS)
 
-<!--
-**TDMNS/TDMNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer
+- MSc Applied CS
+- A kind person
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-rounded&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-rounded&logo=apple&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-rounded&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
