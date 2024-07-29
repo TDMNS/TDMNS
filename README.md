@@ -12,3 +12,4 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-rounded&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-rounded&logo=ruby&logoColor=white)
