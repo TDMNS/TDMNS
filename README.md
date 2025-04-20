@@ -8,6 +8,7 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-rounded&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-rounded&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-rounded&logo=openjdk&logoColor=white)
